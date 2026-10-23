@@ -1,4 +1,5 @@
 # Robot Zumo : évitement d'obstacles et contrôle Bluetooth
+<img width="501" height="317" alt="image" src="https://github.com/user-attachments/assets/76cb364d-15fb-40f0-b81e-cb1eedb11865" />
 
 Projet du module **Robotique** (Master ISOC) : un robot mobile basé sur **Arduino Uno** et **Zumo Shield**, capable de deux comportements :
 
